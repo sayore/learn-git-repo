@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args) {
+
+        String a = "Amelie";
+        String b = "ist";
+        String c = "die";
+        String d = "Beste";
+
+        System.out.println(a + " " + b + " " + c + " " + d.);
+    }
+
+}
